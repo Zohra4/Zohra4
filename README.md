@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zohra</h1>
 <h3 align="center">Student at ReDI School</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif")
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 - 🌱 I’m currently learning **Programming Course**
 

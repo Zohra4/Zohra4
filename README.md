@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)](https://rishavchanda.io)
+[![MasterHead](https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 
 <h1 align="center">Hi 👋, I'm Zohra</h1>
 
